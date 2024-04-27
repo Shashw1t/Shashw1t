@@ -1,4 +1,4 @@
-🖐️Hey, I am Shashwat. <br>Software Engineer and aspiring Entrepreneur.<br><br>Currently working on :⚔️ <b>HyperShip</b> : An innovative platform empowering private supply & transport agencies<br>to provide real-time and verifiable shipment location data through integrated smart<br>contracts on Ethereum & Solana, tackling inefficiencies and vulnerabilities in traditional<br>logistics systems while enhancing accountability and security throughout the supply chain.<br><br><br>For more information, Check out    [ Soranic ] (https://soranic.netlify.app/)
+🖐️Hey, I am Shashwat. <br>Software Engineer and aspiring Entrepreneur.<br><br>Currently working on :⚔️ <b>HyperShip</b> : An innovative platform empowering private supply & transport agencies<br>to provide real-time and verifiable shipment location data through integrated smart<br>contracts on Ethereum & Solana, tackling inefficiencies and vulnerabilities in traditional<br>logistics systems while enhancing accountability and security throughout the supply chain.<br><br><br>For more information, Check out    [Soranic](https://soranic.netlify.app/)
 
 
 ## 🌐 Socials:
