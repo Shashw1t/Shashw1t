@@ -1,4 +1,4 @@
-🖐️Hey, I am Shashwat. <br>Software Engineer  ||  Intern @ NHDC Limited.<br><br>Currently working on :⚔️ <b>HyperShip</b> : An innovative platform empowering private supply & transport agencies<br>to provide real-time and verifiable shipment location data through integrated smart<br>contracts on Ethereum & Solana, tackling inefficiencies and vulnerabilities in traditional<br>logistics systems while enhancing accountability and security throughout the supply chain.<br><br><br>For more information, Check out    [shashw1t](https://shashw1t.in/)
+🖐️Hey, I am Shashwat. <br>Software Engineer  ||  Intern @ NHDC Limited.<br><br><br>For more information, Check out    [shashw1t](https://shashw1t.in/)
 
 
 ## 🌐 Socials:
