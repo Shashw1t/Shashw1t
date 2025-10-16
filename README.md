@@ -1,4 +1,4 @@
-🖐️Hey, I'm Shashwat. <br>Aspiring Software Engineer  |  Ex-Intern @ NHDC Limited  <br><br><br>For more information, Check out    [shashw1t](https://shashw1t.in/)
+🖐️Hey, I'm Shashwat. <br>Aspiring Software Engineer  |  Ex-Intern @ NHDC Limited  | Backend Intern @ Lazeez Hakeem<br><br><br>For more information, Check out    [shashw1t](https://shashw1t.in/)
 
 
 ## 🌐 Socials:
